@@ -1,0 +1,10 @@
+{
+  "name": "umi-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "umi": "^3.3.4",
+    "umi-plugin-react": "^1.15.8"
+  }
+}
